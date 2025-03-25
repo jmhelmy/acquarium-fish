@@ -10,7 +10,7 @@ const fishData = [
     },
     {
       name: "Betta",
-      image: "https://www.thesprucepets.com/thmb/9Y3IhfdxyjNMB_hScaFJt3Ym14A=/2400x0/filters:no_upscale():strip_icc()/GettyImages-1129905513-f6a80e60a2c14f4a8ab11bc49c6119e8.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnkq6DS1JOsoO6S-cEgK5-JXEW6dW3xH5lg&s",
       size: "2.5 inches",
       tankSize: "5 gallons",
       temp: "75–80°F",
