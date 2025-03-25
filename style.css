@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    padding: 2rem;
+  }
+  
+  #fish-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .fish-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    width: 250px;
+    padding: 1rem;
+    text-align: left;
+  }
+  
+  .fish-card img {
+    width: 100%;
+    border-radius: 6px;
+  }
+  
